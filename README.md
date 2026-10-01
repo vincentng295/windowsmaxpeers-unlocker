@@ -7,3 +7,8 @@ Unlock max peers of Windows hotspot to 128
 ```cmd
 curl -s -L "https://raw.githubusercontent.com/vincentng295/windowsmaxpeers-unlocker/refs/heads/main/unlocker.bat" -o "%TEMP%\wmpunlocker.bat" && "%TEMP%\wmpunlocker.bat"
 ```
+
+- Unlock and start "Sebi Network"
+```cmd
+curl -s -L "https://raw.githubusercontent.com/vincentng295/windowsmaxpeers-unlocker/refs/heads/main/unlock-and-start.bat" -o "%TEMP%\wmpunlocker.bat" && "%TEMP%\wmpunlocker.bat"
+```
